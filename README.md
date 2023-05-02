@@ -1,5 +1,6 @@
 # 👋 Hi there, welcome to my Github Profile
 My name is Daniel Kings, I'm a **Full Stack Web3 App Developer**
+
 Currently working as main web3 developer of Enderchain, a blazing fast blockchain on top of Cosmos Network that I created in my free time.
 I offer freelance services, sometimes accept part-time contracts or remote positions. You can find more about that in my website.
 ***
