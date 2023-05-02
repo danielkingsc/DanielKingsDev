@@ -9,7 +9,7 @@ I offer freelance services, sometimes even accept part-time contracts or remote 
 -	Huge fan of React, my own website is created with it and many of my projects too. Good coding experience with JavaScript and Typescript. Also I have good experience using Vue and a pretty good still basic knowledge of Svelte and SvelteKit. 
 -	Great knowledge about many CSS frameworks like Bootstrap 5, Tailwind (in love with this which I use much more in personal projects), Bulma and SASS. Also have experience with UI component libraries like Material UI, Chakra UI and others. 
 -	I've worked many times with jQuery, Helmjs, D3js, PassportJs but I have experince with others JavaScript libraries.
--	Good experience developing mobile apps with Flutter and React Native since 2022. I have good knowledge of Electron and Ionic but not a huge fan of neither one, I rather prefer Tauri for that kind of stuff.  
+-	Good experience building mobile apps with Flutter and React Native since 2022. I have good knowledge of Electron and Ionic but not a huge fan of neither one, I rather prefer Tauri to build in that kind of platforms.
 -	Great lover of Python and Django with pretty good experience in machine learning and data science libraries like TensorFlow, Seaborne, Pandas, Matploitlib and Numpy. I know python since 2016 but I use more JavaScript in a daily basis.
 -	Working with Docker from 2019 and managing Kubernetes in production since 2021 on my own servers. Also I need to mention that I have good experience using software like Git, Ansible, Selenium for automated testing and Jenkins for CI/CD integration. 
 ***
