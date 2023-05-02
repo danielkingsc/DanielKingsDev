@@ -29,5 +29,5 @@ Note: This is just a summary of what I consider are my greatest certifications, 
 💞️ I’m looking to collaborate on...
 - Web3.0 projects like the development of Smart Contracts and new Blockchain features something like that sounds pretty nice to me, but I'm fine working as a frontend developer in some projets too. 
 ***
-📫 How to reach me...
+📫 How to reach me: 
 Find all of my socials and resume in my [website](https://www.danielkings.dev)
