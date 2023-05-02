@@ -27,7 +27,7 @@ I offer freelance services, sometimes even accept part-time contracts or remote 
 Note: This is just a summary of what I consider are my greatest certifications, to see all my achievements in more detail visit the Achievements page in my website. 
 ***
 💞️ I’m looking to collaborate on...
-- Web3.0 projects like the development of Smart Contracts and new Blockchain features something like that sounds pretty nice to me, but I'm fine working as a frontend developer in some projets too. 
+- Web3.0 projects like the development of smart contracts and new blockchains features something like that sounds pretty nice to me, but I'm fine working as a frontend developer in some projets too. 
 ***
-📫 How to reach me: 
-Find all of my socials and resume in my [website](https://www.danielkings.dev)
+📫 How to reach me... 
+- Find all of my socials and resume in my [website](https://www.danielkings.dev)
