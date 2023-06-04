@@ -4,13 +4,12 @@ My name is Daniel Kings, I'm a **Full Stack Web3 App Developer**
 Currently working as main web3 developer of Enderchain, a blazing fast blockchain on top of Cosmos Network that I created in my free time a while ago.
 I offer freelance services, sometimes even accept part-time contracts or remote positions. You can find more about that in my website.
 ***
-***Main Areas Of Knowledge as Developer:***
+***Developer Skills:***
 -	Development of websites using MERN Stack since 2021. Started to use NextJs in 2023 for better results and for simplicity sake. Solid experience with MongoDB, GraphQL and NodeJs but I also have strong knowledge of SQL Databases like PosgreSQL and some experience using Redis Cache in a few freelancer projects.
--	Huge fan of React, my own website is created with it and many of my projects too. Good coding experience with JavaScript and Typescript. Also I have good experience using Vue and a pretty good still basic knowledge of Svelte and SvelteKit. 
--	Great knowledge about many CSS frameworks like Bootstrap 5, Tailwind (in love with this which I use much more in personal projects), Bulma and SASS. Also have experience with UI component libraries like Material UI, Chakra UI and others. 
+-	Huge fan of React, my own website is created with it and many of my projects too. Good coding experience with JavaScript and Typescript. Also I have good experience using Redux and the Context Api for state management.
+-	Great knowledge about many CSS frameworks like Bootstrap 5, Tailwind, Bulma, Materialize and SASS. Also have experience with UI component libraries like Material UI, Chakra UI and others. 
 -	I've worked many times with jQuery, Helmjs, D3js, PassportJs but I have experince with others JavaScript libraries.
--	Good experience building mobile apps with Flutter and React Native since 2022. I have good knowledge of Electron and Ionic but not a huge fan of neither one, I rather prefer Tauri for the deploy in desktop and mobile devices.
--	Great lover of Python and Django with pretty good experience in machine learning and data science libraries like TensorFlow, Seaborne, Pandas, Matploitlib and Numpy. I know python since 2016 but I use more JavaScript in a daily basis.
+-	Good experience building mobile apps with React Native since 2022. I have good knowledge of Electron and Ionic but not a huge fan of neither one, I rather prefer Tauri for the deploy in desktop and mobile devices.
 -	Working with Docker from 2019 and managing Kubernetes in production since 2021 on my own servers. Also I need to mention that I have good experience using software like Git, Ansible, Selenium for automated testing and Jenkins for CI/CD integration. 
 ***
  🌱 I’m currently learning UI/UX Design:
